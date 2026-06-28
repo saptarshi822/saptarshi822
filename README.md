@@ -97,20 +97,6 @@ JWT
 
 ---
 
-### 📖 Virtual Book Store
-
-A backend-focused project demonstrating enterprise development practices.
-
-**Features**
-
-- Authentication
-- CRUD Operations
-- Spring Security
-- Caching
-- REST APIs
-- PostgreSQL
-
----
 
 ## 📊 GitHub Stats
 
@@ -134,9 +120,9 @@ A backend-focused project demonstrating enterprise development practices.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/saptarshi-mitra-10b693222/)](YOUR_LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](saptarshi822@gmail.com)](mailto:YOUR_EMAIL)
 
 ---
 
